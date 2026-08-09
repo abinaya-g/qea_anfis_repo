@@ -1,0 +1,5 @@
+rule_idx,avg_firing,top_terms
+1,0.5625290175925324,"logpow_gamma_O1 ~ N(mu=-0.70, sigma=0.09), logpow_theta_T8 ~ N(mu=0.74, sigma=0.09), relpow_beta_FC6 ~ N(mu=-0.62, sigma=0.10), logpow_beta_F7 ~ N(mu=0.44, sigma=0.12), logpow_gamma_P8 ~ N(mu=-0.18, sigma=0.18)"
+2,0.33501903037894215,"hjorth_mobility_FC6 ~ N(mu=0.03, sigma=0.07), logpow_beta_F7 ~ N(mu=-0.07, sigma=0.10), relpow_alpha_O1 ~ N(mu=-0.39, sigma=0.10), fuzzyen_F3 ~ N(mu=-0.26, sigma=0.12), abspow_gamma_O2 ~ N(mu=0.25, sigma=0.14)"
+0,0.10245195202752828,"hjorth_mobility_FC6 ~ N(mu=0.79, sigma=0.03), logpow_gamma_P8 ~ N(mu=0.02, sigma=0.06), abspow_gamma_P8 ~ N(mu=-0.66, sigma=0.14), logpow_gamma_FC6 ~ N(mu=-0.71, sigma=0.20), relpow_beta_FC6 ~ N(mu=-0.73, sigma=0.20)"
+3,2.9814002676097554e-64,"hjorth_complexity_T8 ~ N(mu=0.36, sigma=0.01), logpow_theta_T8 ~ N(mu=-0.19, sigma=0.01), abspow_gamma_P8 ~ N(mu=0.80, sigma=0.07), logpow_gamma_F8 ~ N(mu=0.27, sigma=0.08), logpow_gamma_F7 ~ N(mu=-0.37, sigma=0.10)"
