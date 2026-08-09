@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+outputs/*.npy
+outputs/*.csv
+outputs/*.json
+outputs/*.pkl
+figures/*.png
+!outputs/.gitkeep
+!figures/.gitkeep
+.ipynb_checkpoints/
