@@ -79,7 +79,7 @@ full pipeline end to end, cell by cell, with the same diagnostic checkpoints use
 development (orientation asserts, subject-leakage asserts, FuzzyEn unit tests, stop-condition
 checks per Rule 25 of the original master prompt).
 
-## Known limitations (report these, don't hide them)
+## Known limitations
 
 - `n_outer=10` still leaves several statistical comparisons underpowered (p in the 0.06-0.32 range
   for several ablations) — point estimates are directionally consistent but not all reach
