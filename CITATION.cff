@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the associated manuscript (once published) or this repository."
 title: "QEA-ANFIS: Quality-Aware Evolutionary Adaptive Neuro-Fuzzy Inference System for Subject-Independent EEG Mental-Workload Classification"
 authors:
-  - family-names: "Replace with your surname"
-    given-names: "Replace with your given name"
-    affiliation: "Replace with your institution"
+  - family-names: "G"
+    given-names: "Abinaya"
+    affiliation: "Saveetha Engineering College, Chennai, Tamil Nadu, India"
 repository-code: "https://github.com/abinaya-g/qea_anfis_repo"
 license: MIT
 version: 1.0.0
